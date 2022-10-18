@@ -1,6 +1,6 @@
 # Password-Generator
 
-Finding password:
+#Finding password:
 -Length adjustment
--Capital and lowercase letters
+-Uppercase and lowercase letters
 -Symbols
